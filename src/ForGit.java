@@ -2,6 +2,7 @@ public class ForGit {
     public ForGit() {
     }
 
+<<<<<<< HEAD
     @Override
     public String toString() {
         return "ForGit{}";
@@ -21,4 +22,6 @@ public class ForGit {
     public int hashCode() {
         return super.hashCode();
     }
+=======
+>>>>>>> c5590378a309f11d5288d42f2abc645922c0c8b9
 }
